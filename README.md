@@ -3,5 +3,8 @@
 
 ![Alt text](./1.png)
 
+- 文档 [http://notedown.cn/weixin/](http://notedown.cn/weixin/)
+- IDE 以及破解 [https://github.com/gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)
+
 
 *数据为模拟的假数据
