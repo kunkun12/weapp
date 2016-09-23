@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for-items="{{banner_list[0].banner}}">
+    <swiper-item>
+      <image src="{{item.pic_url}}" class="slide-image" />
+    </swiper-item>
+  </block>
+</swiper>
+ <view>
+  <view class='menueview' >
+   <block wx:for-items="{{banner_list[1].banner}}">
+   <image src="{{item.pic_url}}" class="menue-image" />
+   </block>
+  </view>
+ </view>
+</view>
